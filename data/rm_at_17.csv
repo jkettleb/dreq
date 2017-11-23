@@ -1,0 +1,45 @@
+cmor_label$miptable$cf_std_name$title$plan$ukesm_component$requesting_mips
+co2totalmass$EmonZ$CO2_total_mass_in_atmos$Globally integrated Carbon Mass in Atmosphere$vn10.8$carbon$C4MIP
+co3$Oyr$mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water$Carbonate ion Concentration$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,VIACSAB
+co3nat$Oyr$mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water_due_to_natural_component$Natural Carbonate ion Concentration$add-to-model$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP
+co3natos$Omon$surface_mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water_due_to_natural_component$Surface Natural Carbonate ion Concentration$add-to-model$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+co3os$Omon$surface_mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water$Surface Carbonate ion Concentration$add-to-model$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+co3satarag$Oyr$mole_concentration_of_aragonite_expressed_as_carbon_in_sea_water_at_saturation$Carbonate ion Concentration for sea water in equilibrium with pure Aragonite$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,VIACSAB
+co3sataragos$Omon$surface_mole_concentration_of_carbonate_expressed_as_carbon_for_sea_water_in_equilibrium_with_pure_aragonite$Surface Mole Concentration of Carbonate Ion in Equilibrium with Pure Aragonite in sea water$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+co3satcalc$Oyr$mole_concentration_of_calcite_expressed_as_carbon_in_sea_water_at_saturation$Carbonate ion Concentration for sea water in equilibrium with pure Calcite$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,VIACSAB
+co3satcalcos$Omon$surface_mole_concentration_of_carbonate_expressed_as_carbon_for_sea_water_in_equilibrium_with_pure_calcite$Surface Mole Concentration of Carbonate Ion in Equilibrium with Pure Calcite in sea water$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+detoc$Oyr$mole_concentration_of_organic_detritus_expressed_as_carbon_in_sea_water$Detrital Organic Carbon Concentration$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+detocos$Omon$surface_mole_concentration_of_organic_detritus_expressed_as_carbon_in_sea_water$Surface Detrital Organic Carbon Concentration$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+dissic$Oyr$mole_concentration_of_dissolved_inorganic_carbon_in_sea_water$Dissolved Inorganic Carbon Concentration$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+dissicnat$Emon$mole_concentration_of_dissolved_inorganic_carbon_in_sea_water_natural_component$Natural Dissolved Inorganic Carbon Concentration$add-to-model$obgc$C4MIP,DAMIP
+dissicos$Omon$surface_mole_concentration_of_dissolved_inorganic_carbon_in_sea_water$Surface Dissolved Inorganic Carbon Concentration$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+lialbIs$LImon$surface_albedo$Ice Sheet Ice or Snow Albedo$post-process$icesheet$ISMIP6
+mrlsl$Eday$moisture_content_of_soil_layer$Water Content of Soil Layer$post-process$land$LS3MIP
+mrlsl$Lmon$moisture_content_of_soil_layer$Water Content of Soil Layer$post-process$land$AerChemMIP,CFMIP,CMIP,FAFMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,LUMIP,PMIP,RFMIP,VIACSAB,VolMIP
+o2sat$Emon$mole_concentration_of_dissolved_molecular_oxygen_in_sea_water_at_saturation$Dissolved Oxygen Concentration at Saturation$available$obgc$C4MIP
+ph$Oyr$sea_water_ph_reported_on_total_scale$pH$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,VIACSAB
+phos$Omon$sea_water_ph_reported_on_total_scale$Surface pH$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+phydiat$Oyr$mole_concentration_of_diatoms_expressed_as_carbon_in_sea_water$Mole Concentration of Diatoms expressed as Carbon in sea water$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+phydiatos$Omon$surface_mole_concentration_of_diatoms_expressed_as_carbon_in_sea_water$Surface Mole Concentration of Diatoms expressed as Carbon in Sea Water$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+phypico$Oyr$mole_concentration_of_picophytoplankton_expressed_as_carbon_in_sea_water$Mole Concentration of Picophytoplankton expressed as Carbon in sea water$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+phypicoos$Omon$surface_mole_concentration_of_picophytoplankton_expressed_as_carbon_in_sea_water$Surface Mole Concentration of Picophytoplankton expressed as Carbon in Sea Water$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+po4$Oyr$mole_concentration_of_dissolved_inorganic_phosphorus_in_sea_water$Total Dissolved Inorganic Phosphorus Concentration$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+po4os$Omon$surface_mole_concentration_of_dissolved_inorganic_phosphorus_in_sea_water$Surface Total Dissolved Inorganic Phosphorus Concentration$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+talk$Oyr$sea_water_alkalinity_expressed_as_mole_equivalent$Total Alkalinity$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+talkos$Omon$sea_water_alkalinity_expressed_as_mole_equivalent$Surface Total Alkalinity$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+ua200$6hrPlev$eastward_wind$Eastward Wind at 200hPa$available$atmos-physics$PMIP
+ua200$Eday$eastward_wind$Eastward Wind at 200hPa$available$atmos-physics$PMIP
+ua850$6hrPlev$eastward_wind$Eastward Wind at 850 hPa$available$atmos-physics$PMIP
+ua850$E3hrPt$eastward_wind$Eastward Wind$available$atmos-physics$HighResMIP
+ua850$Eday$eastward_wind$Eastward Wind at 850 hPa$available$atmos-physics$PMIP
+va200$Eday$northward_wind$Northward Wind$available$atmos-physics$PMIP
+va200$6hrPlev$northward_wind$Northward Wind$available$atmos-physics$PMIP
+va850$6hrPlev$northward_wind$Northward Wind$available$atmos-physics$PMIP
+va850$E3hrPt$northward_wind$Northward Wind$available$atmos-physics$HighResMIP
+va850$Eday$northward_wind$Northward Wind$available$atmos-physics$PMIP
+zmeso$Oyr$mole_concentration_of_mesozooplankton_expressed_as_carbon_in_sea_water$Mole Concentration of Mesozooplankton expressed as Carbon in sea water$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+zmesoos$Omon$surface_mole_concentration_of_mesozooplankton_expressed_as_carbon_in_sea_water$Surface Mole Concentration of Mesozooplankton expressed as Carbon in Sea Water$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+zmicro$Oyr$mole_concentration_of_microzooplankton_expressed_as_carbon_in_sea_water$Mole Concentration of Microzooplankton expressed as Carbon in sea water$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+zmicroos$Omon$surface_mole_concentration_of_microzooplankton_expressed_as_carbon_in_sea_water$Surface Mole Concentration of Microzooplankton expressed as Carbon in Sea Water$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
+zooc$Oyr$mole_concentration_of_zooplankton_expressed_as_carbon_in_sea_water$Zooplankton Carbon Concentration$available$obgc$AerChemMIP,CMIP,GeoMIP,LUMIP,OMIP,PMIP,VIACSAB
+zoocos$Omon$surface_mole_concentration_of_zooplankton_expressed_as_carbon_in_sea_water$Surface Zooplankton Carbon Concentration$available$obgc$AerChemMIP,C4MIP,CMIP,GMMIP,GeoMIP,HighResMIP,LS3MIP,OMIP
